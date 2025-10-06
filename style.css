@@ -1,0 +1,18 @@
+body{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size:medium;
+margin:auto;
+padding: 20px;
+background-color: #ffebcd;
+color: deeppink;
+}
+#main-heading{
+    color: indigo;
+    background-color:lightskyblue;
+    font-size: large;
+    text-aligin:center;
+}
+.text-block{
+    color:blueviolet;
+    font-size:larger;
+   border: radius 10px;
+}
